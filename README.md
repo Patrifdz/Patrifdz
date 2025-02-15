@@ -7,7 +7,6 @@
 - 🎓 I’m looking forward to learning new things
 - 🤝 Open for collaborations in web development 🕸️
  
-- 😄 Pronouns: she/her
 - 📝 Always learning new things
 <!-- - ⚡ Fun fact: ... --> 
 <!-- - 👯 I’m looking to collaborate on ...
